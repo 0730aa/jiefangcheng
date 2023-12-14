@@ -26,3 +26,4 @@ def solve_quadratic(a, b, c):
 solve_quadratic(1, -5, 6) # 输出方程有两个不同的实数根，x1 = 3.0, x2 = 2.0
 solve_quadratic(1, -4, 4) # 输出方程有一个重根，x = 2.0
 solve_quadratic(1, 2, 3) # 输出方程无实数解
+# 此方式存在第一天
